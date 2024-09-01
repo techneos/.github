@@ -40,7 +40,7 @@ At Téchnéos, our mission is to empower businesses with innovative technology s
 
 We'd love to hear from you! Whether you're interested in our services, have a question, or just want to learn more about what we do, feel free to reach out.
 
-- **Website:** [Your Website URL](https://techneos.eu)
+- **Website:** [techneos.eu](https://techneos.eu)
 - **Email:** software@techneos.eu
 - **LinkedIn:** [Téchnéos LinkedIn](https://www.linkedin.com/company/téchnéos)
 
