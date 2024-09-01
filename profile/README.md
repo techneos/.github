@@ -52,4 +52,4 @@ Thank you for visiting Téchnéos on GitHub!
 
 ---
 
-© [2024] Téchnéos. All rights reserved.
+© 2024 Téchnéos. All rights reserved.
