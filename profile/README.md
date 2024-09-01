@@ -1,6 +1,6 @@
 # Welcome to Téchnéos on GitHub 🎉
 
-![Téchnéos Logo](https://github.com/techneos/.github/blob/e46ab8c880541d7a003403a54dc9a548f1954a88/profile/techneos-logo.png)
+<img src="https://github.com/techneos/.github/blob/e46ab8c880541d7a003403a54dc9a548f1954a88/profile/techneos-logo.png" width="100" height="100">
 
 ## About Us 🌐
 
