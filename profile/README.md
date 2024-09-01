@@ -40,10 +40,9 @@ At Téchnéos, our mission is to empower businesses with innovative technology s
 
 We'd love to hear from you! Whether you're interested in our services, have a question, or just want to learn more about what we do, feel free to reach out.
 
-- **Website:** [Your Website URL](https://yourwebsite.com)
-- **Email:** contact@techneos.com
-- **LinkedIn:** [Téchnéos LinkedIn](https://www.linkedin.com/company/techneos)
-- **Twitter:** [@Techneos](https://twitter.com/Techneos)
+- **Website:** [Your Website URL](https://techneos.eu)
+- **Email:** software@techneos.eu
+- **LinkedIn:** [Téchnéos LinkedIn](https://www.linkedin.com/company/téchnéos)
 
 ## Explore Our Projects 🚀
 
@@ -53,4 +52,4 @@ Thank you for visiting Téchnéos on GitHub!
 
 ---
 
-© [Year] Téchnéos. All rights reserved.
+© [2024] Téchnéos. All rights reserved.
