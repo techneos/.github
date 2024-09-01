@@ -1,7 +1,7 @@
 # Welcome to Téchnéos on GitHub 🎉
-
+<!--
 <img src="https://github.com/techneos/.github/blob/e46ab8c880541d7a003403a54dc9a548f1954a88/profile/techneos-logo.png" width="100" height="100">
-
+-->
 ## About Us 🌐
 
 **Téchnéos** is a leading technology company specializing in cutting-edge Artificial Intelligence (AI), Machine Learning (ML), and Data Science solutions. We are dedicated to helping businesses harness the power of data and advanced algorithms to drive innovation, efficiency, and growth.
